@@ -1,0 +1,23 @@
+{
+  "name": "librarian-1-to-2",
+  "version": "1.0.0",
+  "description": "Upgrade librarian data from version 1 to version 2 format",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/librarianjs/1-to-2.git"
+  },
+  "keywords": [
+    "librarian",
+    "upgrade"
+  ],
+  "author": "Josh Vanderwillik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/librarianjs/1-to-2/issues"
+  },
+  "homepage": "https://github.com/librarianjs/1-to-2#readme"
+}
