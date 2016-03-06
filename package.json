@@ -14,13 +14,14 @@
     "librarian",
     "upgrade"
   ],
-  "author": "Josh Vanderwillik",
+  "author": "Josh Vanderwillik <joshwillik@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/librarianjs/1-to-2/issues"
   },
   "homepage": "https://github.com/librarianjs/1-to-2#readme",
   "dependencies": {
+    "node-uuid": "^1.4.7",
     "promise-series": "^0.2.0"
   }
 }
